@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 beyonce
-colbert
-miss ko
+beyonce~
+
+jason
+>>>>>>> trial-performers
