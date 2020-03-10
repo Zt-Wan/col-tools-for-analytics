@@ -3,3 +3,4 @@ aquaman
 black widow
 hulk
 amerian captain
+panther
